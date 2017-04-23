@@ -18,7 +18,7 @@ namespace Test
 
 			//Feature 1.1 change.
 			
-			// Feature 1.1 additional change from Remote
+			// Additional change from Remote
 		}
 	}
 }
